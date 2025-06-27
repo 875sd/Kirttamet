@@ -33,13 +33,13 @@
 
 ### 📫 Talk to me 💌  
 <p align="left">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:your.oommylok@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-ff6f61?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/yourusername" target="_blank">
+  <a href="https://instagram.com/kirttamet_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.tiktok.com/@yourusername" target="_blank">
+  <a href="https://www.tiktok.com/kirttamet_" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white"/>
   </a>
 </p>
