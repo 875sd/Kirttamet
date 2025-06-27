@@ -24,23 +24,23 @@
 
 ---
 
-### 📈 GitHub Stats
+### 🐣 Just Having Fun with Code 🎨  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" height="150"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGR3dDlnMmR0ZzhxaGNkdXlwbnUwb3FpMG9taDk4YmZ1aHZncjV5eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hp3dmEIo5MQWA/giphy.gif" width="250" />
 </p>
 
 ---
 
-### 📫 Connect with me
+### 📫 Talk to me 💌  
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-ff6f61?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/>
+  <a href="https://instagram.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.tiktok.com/@yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white"/>
   </a>
 </p>
+
